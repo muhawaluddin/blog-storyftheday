@@ -5,6 +5,10 @@ title = "Story of the day"
 themesDir = "themes"
 theme = "hugo-winston-theme"
 
+[author]
+  name = "Robert Austin"
+  homepage = "https://www.zerostatic.io"
+
 [params]
   google_analytics_id = ""
   twitter_handle = "@zerostaticio"
@@ -14,4 +18,8 @@ theme = "hugo-winston-theme"
   addFrame = true
   addDot = true
 
+[[menu.main]]
+    name = "Blogs"
+    weight = 1
+    url  = "/blog/"
 
