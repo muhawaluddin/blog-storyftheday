@@ -1,0 +1,3 @@
+# blog-storyoftheday
+
+Project Blog
