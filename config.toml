@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Story of the day"
+
+themesDir = "themes"
+theme = "hugo-winston-theme"
+
+[params]
+  google_analytics_id = ""
+  twitter_handle = "@zerostaticio"
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = false
+  showPostsOnHomepage = false
+  addFrame = true
+  addDot = true
+
+
