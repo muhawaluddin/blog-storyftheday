@@ -22,4 +22,12 @@ theme = "hugo-winston-theme"
     name = "Blogs"
     weight = 1
     url  = "/blog/"
+[[menu.main]]
+    name = "Story"
+    weight = 2
+    url  = "/story/"
+[[menu.main]]
+    name = "About"
+    weight = 3
+    url  = "/about/"
 
